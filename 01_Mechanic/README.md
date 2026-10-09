@@ -23,7 +23,7 @@
 | [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` | STEP、X_T 通用模型 |
 | [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | `01_Source_CAD/03_Drawings/` | SolidWorks 工程图及 PDF |
 
-将仓库文件夹命名为 `rp1_hardware`，把 CAD 包解压到它的上一级目录，再合并同名文件夹。三个包使用同一解压位置；编辑 SLDDRW 时还需下载 SolidWorks 源文件包。
+下载所需 CAD 包并解压，保留包内目录结构。编辑 SolidWorks 原生工程图时，请同时下载配套源文件包。
 
 ## 制造文件
 

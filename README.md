@@ -34,7 +34,7 @@ CAD files are available in [Releases](https://github.com/Roboparty/rp1_hardware/
 | [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | STEP and X_T models |
 | [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | SolidWorks drawings and PDFs |
 
-Name your repository folder `rp1_hardware`. Extract the CAD packages into its parent directory and merge the included `rp1_hardware` folder with it. Keep the directory structure so assemblies can find their parts; editing native drawings also requires the SolidWorks source package.
+Download and extract the CAD packages you need, keeping the directory structure inside each archive. To edit native SolidWorks drawings, also download the corresponding SolidWorks source package.
 
 The main assembly is `01_Mechanic/01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDASM`. A STEP model is provided at the same location. See [mechanical files](01_Mechanic/README.md) for details.
 
