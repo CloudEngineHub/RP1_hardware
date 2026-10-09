@@ -1,8 +1,14 @@
-# 资料使用说明
+# 硬件说明文档
 
-1. 在 [整机 BOM](../04_BOM/README.md) 中选择配置，查看物料名称、料号和数量。
-2. 在 [机械资料](../01_Mechanic/README.md) 中查看装配模型、零件模型、工程图及制造要求。
-3. 在 [PCB 资料](../02_PCB/README.md) 中查找板卡的元件 BOM、Gerber、贴装坐标及加工要求。
-4. 在 [线束资料](../03_Harness/README.md) 中查找线束清单、图纸及制作说明。
+[RP1 硬件系统架构（PDF）](RP1_Hardware_Architecture.pdf)
 
-[返回项目首页](../README.md)
+先按整机配置选择 BOM，再通过料号查找对应的设计与制造文件。
+
+| 资料 | 内容 |
+| --- | --- |
+| [整机 BOM](../04_BOM/README.md) | 各配置的物料料号与数量 |
+| [机械结构](../01_Mechanic/README.md) | 装配体、零件模型、工程图与制造要求 |
+| [PCB](../02_PCB/README.md) | 板级 BOM、Gerber、贴装坐标与加工要求 |
+| [线束](../03_Harness/README.md) | 线束 BOM、图纸与制作规范 |
+
+[返回 RP1 硬件首页](../README_CN.md)

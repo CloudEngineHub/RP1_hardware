@@ -1,8 +1,8 @@
 # RP1 PCB 资料
 
-[返回仓库](../README.md) · [整机 BOM](../04_BOM/README.md) · [线束](../03_Harness/README.md)
+[项目首页](../README_CN.md) · [整机 BOM](../04_BOM/README.md) · [线束](../03_Harness/README.md)
 
-本目录公开 PCB 生产资料，按 14 种板卡组织。资料料号与修订取自板卡加工要求，各板卡现有文件见对应目录。
+本目录包含 14 种 RP1 板卡的生产资料。下表料号与修订取自各板卡加工要求。
 
 ## 板卡目录
 
@@ -27,15 +27,19 @@
 
 | 文件前缀 | 格式 | 用途 |
 | --- | --- | --- |
-| 01_BOM | XLSX | 板级元器件清单与数量 |
+| 01_BOM | XLSX | 单块板卡的元器件与数量 |
 | 02_Gerber | ZIP | PCB 制造输出 |
 | 03_3D | STEP / ZIP | 装配空间与外形参考 |
 | 04_CPL | XLSX | 元器件贴装坐标 |
 | 05_PCBA加工要求 | XLSX / PDF | 加工要求、料号与修订 |
-| 06_PCB_PDF | PDF | 板图浏览 |
+| 06_PCB_PDF | PDF | PCB 板图 |
 
-板级 BOM 描述单块板的元器件，整机 BOM 描述整机使用的板卡及数量。制造时选用同一板卡修订对应的资料。
+板级 BOM 描述单块板的元器件，[整机 BOM](../04_BOM/README.md) 描述各配置使用的板卡及数量。采购和装配时选用同一板卡修订对应的资料。
 
-## 三维模型下载
+BACKHUB 三维模型以 [ZIP](12_RBE_PWR_BACKHUB/03_3D_BACKHUB_2026-09-28.zip) 提供，解压后得到 `03_3D_BACKHUB_2026-09-28.step`，可导入 CAD 软件。
 
-BACKHUB 板的三维模型以 [ZIP](12_RBE_PWR_BACKHUB/03_3D_BACKHUB_2026-09-28.zip) 提供。在该板卡目录解压后得到 `03_3D_BACKHUB_2026-09-28.step`，再导入 CAD 软件。
+## PCB 板图预览
+
+[![BACKHUB V2.1 PCB 板图](../assets/images/pcb-layout.png)](12_RBE_PWR_BACKHUB/06_PCB_PDF_BACKHUB_V2.1.pdf)
+
+[查看 BACKHUB V2.1 板图（PDF）](12_RBE_PWR_BACKHUB/06_PCB_PDF_BACKHUB_V2.1.pdf)
