@@ -19,11 +19,11 @@
 
 | 附件 | 解压目录 | 内容 |
 | --- | --- | --- |
-| [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` | 65 个装配体、322 个原生零件及 1 个随附 STP |
-| [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` | 180 个 STEP 与 1 个 X_T |
-| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | `01_Source_CAD/03_Drawings/` | 150 个 SLDDRW 与 174 个 PDF |
+| [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` | SolidWorks 装配体、零件及引用模型 |
+| [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` | STEP、X_T 通用模型 |
+| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | `01_Source_CAD/03_Drawings/` | SolidWorks 工程图及 PDF |
 
-仓库文件夹使用 `rp1_hardware` 名称。在该文件夹的上一级目录解压附件，合并到已有 `rp1_hardware` 文件夹。所有附件解压到同一位置；编辑 SLDDRW 时先解压原生源文件包。附件校验值见 [SHA256SUMS.txt](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/SHA256SUMS.txt)。
+将仓库文件夹命名为 `rp1_hardware`，把 CAD 包解压到它的上一级目录，再合并同名文件夹。三个包使用同一解压位置；编辑 SLDDRW 时还需下载 SolidWorks 源文件包。
 
 ## 制造文件
 
