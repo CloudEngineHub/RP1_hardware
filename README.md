@@ -40,6 +40,12 @@ The main assembly is `01_Mechanic/01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDA
 
 ## Drawing Previews
 
+### CNC part drawing · YCL.M000642
+
+[![YCL.M000642 upper-arm body machining drawing](assets/images/cnc-part-drawing.png)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+
+[Open the CNC drawing (PDF)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+
 ### BACKHUB PCB layout
 
 [![BACKHUB V2.1 component placement drawing](assets/images/pcb-layout.png)](02_PCB/12_RBE_PWR_BACKHUB/06_PCB_PDF_BACKHUB_V2.1.pdf)

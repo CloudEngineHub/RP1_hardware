@@ -40,6 +40,12 @@ CAD 文件从 [Releases](https://github.com/Roboparty/rp1_hardware/releases/tag/
 
 ## 图纸预览
 
+### CNC 加工图纸 · 大臂上本体
+
+[![YCL.M000642 大臂上本体（01版）CNC 加工图纸](assets/images/cnc-part-drawing.png)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+
+[查看 CNC 加工图纸 PDF](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+
 ### BACKHUB PCB 板图
 
 [![BACKHUB V2.1 器件位号布局图](assets/images/pcb-layout.png)](02_PCB/12_RBE_PWR_BACKHUB/06_PCB_PDF_BACKHUB_V2.1.pdf)
