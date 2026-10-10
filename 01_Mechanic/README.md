@@ -14,9 +14,9 @@
 | --- | --- | --- |
 | [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | SolidWorks 装配体、零件及引用模型 | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` |
 | [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | STEP、X_T 通用模型 | `01_Source_CAD/01_Assemblies/`、`01_Source_CAD/02_Parts/` |
-| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | SolidWorks 工程图及 PDF | `01_Source_CAD/03_Drawings/` |
+| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | 配套原生工程图、独立工程图及 PDF | `01_Source_CAD/02_Parts/`、`01_Source_CAD/03_Drawings/` |
 
-下载所需 CAD 包并解压，保留包内目录结构。编辑 SolidWorks 原生工程图时，请同时下载配套源文件包。
+将 `RP1_SolidWorks_Source.zip` 与 `RP1_Drawings.zip` 解压到同一位置，保留包内目录结构。同名的原生工程图与对应模型放在同一目录，在整机装配中右键零件选择**打开工程图**即可。PDF 集中在 `01_Source_CAD/03_Drawings/02_PDF/`。
 
 整机装配体为 `01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDASM`，通用模型为 `01_Source_CAD/01_Assemblies/RP1.3.4整机.STEP`。
 

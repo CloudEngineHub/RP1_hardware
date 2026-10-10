@@ -34,7 +34,7 @@ CAD 文件从 [Releases](https://github.com/Roboparty/rp1_hardware/releases/tag/
 | [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | STEP、X_T 通用三维模型 |
 | [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | SolidWorks 工程图及 PDF |
 
-下载所需 CAD 包并解压，保留包内目录结构。编辑 SolidWorks 原生工程图时，请同时下载配套源文件包。
+将 `RP1_SolidWorks_Source.zip` 与 `RP1_Drawings.zip` 解压到同一位置，保留包内目录结构。同名的零件工程图与模型放在同一目录，在 SolidWorks 中右键零件选择**打开工程图**即可。PDF 集中在 `01_Mechanic/01_Source_CAD/03_Drawings/02_PDF/`。
 
 整机装配入口为 `01_Mechanic/01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDASM`，同目录提供 STEP 模型。详细文件位置见 [机械资料](01_Mechanic/README.md)。
 
