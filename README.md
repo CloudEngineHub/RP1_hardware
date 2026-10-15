@@ -12,7 +12,7 @@ Hardware design and manufacturing files for the RoboParty RP1 humanoid robot: me
 
 | Resource | Contents |
 | --- | --- |
-| [Mechanical files](01_Mechanic/README.md) | Manufacturing STEP models, PDF drawings, CNC, 3D printing and rubber parts |
+| [Mechanical files](01_Mechanic/README.md) | SolidWorks sources, editable drawings, Parasolid model and manufacturing files |
 | [PCB files](02_PCB/README.md) | Board BOMs, Gerbers, placement data, 3D models and fabrication requirements |
 | [Wiring harnesses](03_Harness/README.md) | Harness BOM, drawings and assembly requirements |
 | [Robot BOMs](04_BOM/README.md) | Part numbers and quantities for each configuration |
@@ -23,6 +23,16 @@ Hardware design and manufacturing files for the RoboParty RP1 humanoid robot: me
 | --- | --- |
 | 5DOF + MotionHead | [RP1_BOM_5DOF_MotionHead.xlsx](04_BOM/RP1_BOM_5DOF_MotionHead.xlsx) |
 | 7DOF + MotionHead | [RP1_BOM_7DOF_MotionHead.xlsx](04_BOM/RP1_BOM_7DOF_MotionHead.xlsx) |
+
+## CAD Downloads
+
+| File | Contents |
+| --- | --- |
+| [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | SolidWorks assembly and part source files |
+| [RP1_Parasolid_Model.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Parasolid_Model.zip) | Parasolid whole-robot model (.x_t) |
+| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | Editable SolidWorks drawings (.SLDDRW) |
+
+Extract the source archive and open `RP1_SolidWorks_Source/RP1.3.4整机.SLDASM`. Keep the source files together. For drawing editing, place the `.SLDDRW` files from `RP1_Drawings` beside their corresponding source models.
 
 ## Drawing Previews
 
