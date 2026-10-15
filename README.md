@@ -12,7 +12,7 @@ Hardware design and manufacturing files for the RoboParty RP1 humanoid robot: me
 
 | Resource | Contents |
 | --- | --- |
-| [Mechanical files](01_Mechanic/README.md) | Assemblies, part models, drawings, CNC, 3D printing and rubber parts |
+| [Mechanical files](01_Mechanic/README.md) | Manufacturing STEP models, PDF drawings, CNC, 3D printing and rubber parts |
 | [PCB files](02_PCB/README.md) | Board BOMs, Gerbers, placement data, 3D models and fabrication requirements |
 | [Wiring harnesses](03_Harness/README.md) | Harness BOM, drawings and assembly requirements |
 | [Robot BOMs](04_BOM/README.md) | Part numbers and quantities for each configuration |
@@ -23,20 +23,6 @@ Hardware design and manufacturing files for the RoboParty RP1 humanoid robot: me
 | --- | --- |
 | 5DOF + MotionHead | [RP1_BOM_5DOF_MotionHead.xlsx](04_BOM/RP1_BOM_5DOF_MotionHead.xlsx) |
 | 7DOF + MotionHead | [RP1_BOM_7DOF_MotionHead.xlsx](04_BOM/RP1_BOM_7DOF_MotionHead.xlsx) |
-
-## CAD Downloads
-
-CAD files are available in [Releases](https://github.com/Roboparty/rp1_hardware/releases/tag/v0.1.0). Manufacturing files, PCB data, harness drawings and BOMs are included in this repository.
-
-| Download | Contents |
-| --- | --- |
-| [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | SolidWorks assemblies, parts and referenced models |
-| [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | STEP and X_T models |
-| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | SolidWorks drawings and PDFs |
-
-Extract `RP1_SolidWorks_Source.zip` and `RP1_Drawings.zip` into the same location, keeping their directory structure. Matching part drawings are stored beside their models; in SolidWorks, right-click a component and choose **Open Drawing**. PDFs are grouped under `01_Mechanic/01_Source_CAD/03_Drawings/02_PDF/`.
-
-The main assembly is `01_Mechanic/01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDASM`. A STEP model is provided at the same location. See [mechanical files](01_Mechanic/README.md) for details.
 
 ## Drawing Previews
 

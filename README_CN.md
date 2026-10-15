@@ -12,7 +12,7 @@ RoboParty RP1 人形机器人的硬件设计与制造资料，包括机械结构
 
 | 资料 | 内容 |
 | --- | --- |
-| [机械结构](01_Mechanic/README.md) | 装配体、零件模型、工程图，以及 CNC、3D 打印和橡胶件制造文件 |
+| [机械结构](01_Mechanic/README.md) | 加工用 STEP 模型、PDF 图纸，以及 CNC、3D 打印和橡胶件制造文件 |
 | [PCB](02_PCB/README.md) | 板级 BOM、Gerber、贴装坐标、3D 模型与加工要求 |
 | [线束](03_Harness/README.md) | 线束 BOM、加工图纸与制作规范 |
 | [整机 BOM](04_BOM/README.md) | 各配置的物料料号与数量 |
@@ -23,20 +23,6 @@ RoboParty RP1 人形机器人的硬件设计与制造资料，包括机械结构
 | --- | --- |
 | 5DOF + 运控头 | [RP1_BOM_5DOF_MotionHead.xlsx](04_BOM/RP1_BOM_5DOF_MotionHead.xlsx) |
 | 7DOF + 运控头 | [RP1_BOM_7DOF_MotionHead.xlsx](04_BOM/RP1_BOM_7DOF_MotionHead.xlsx) |
-
-## 下载 CAD
-
-CAD 文件从 [Releases](https://github.com/Roboparty/rp1_hardware/releases/tag/v0.1.0) 下载。制造文件、PCB 资料、线束图纸和 BOM 可直接在本仓库查看。
-
-| 下载 | 内容 |
-| --- | --- |
-| [RP1_SolidWorks_Source.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_SolidWorks_Source.zip) | SolidWorks 装配体、零件及引用模型 |
-| [RP1_Neutral_Models.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Neutral_Models.zip) | STEP、X_T 通用三维模型 |
-| [RP1_Drawings.zip](https://github.com/Roboparty/rp1_hardware/releases/download/v0.1.0/RP1_Drawings.zip) | SolidWorks 工程图及 PDF |
-
-将 `RP1_SolidWorks_Source.zip` 与 `RP1_Drawings.zip` 解压到同一位置，保留包内目录结构。同名的零件工程图与模型放在同一目录，在 SolidWorks 中右键零件选择**打开工程图**即可。PDF 集中在 `01_Mechanic/01_Source_CAD/03_Drawings/02_PDF/`。
-
-整机装配入口为 `01_Mechanic/01_Source_CAD/01_Assemblies/RP1.3.4整机.SLDASM`，同目录提供 STEP 模型。详细文件位置见 [机械资料](01_Mechanic/README.md)。
 
 ## 图纸预览
 
