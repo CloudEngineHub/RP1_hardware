@@ -36,6 +36,8 @@
 
 板级 BOM 描述单块板的元器件，[整机 BOM](../04_BOM/README.md) 描述各配置使用的板卡及数量。采购和装配时选用同一板卡修订对应的资料。
 
+HEAD 板的 C30 和 140WCHG 板的 R59 为不装件，贴装与采购请分别参阅 [HEAD 贴装说明](06_RBE-PWR-HEAD/README.md)和 [140WCHG 贴装说明](11_RBE_PWR_140WCHG/README.md)。
+
 BACKHUB 三维模型以 [ZIP](12_RBE_PWR_BACKHUB/03_3D_BACKHUB_2026-09-28.zip) 提供，解压后得到 `03_3D_BACKHUB_2026-09-28.step`，可导入 CAD 软件。
 
 ## PCB 板图预览
