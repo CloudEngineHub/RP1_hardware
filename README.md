@@ -21,8 +21,8 @@ Hardware design and manufacturing files for the RoboParty RP1 humanoid robot: me
 
 | Configuration | BOM |
 | --- | --- |
-| 5DOF + MotionHead | [RP1_BOM_5DOF_MotionHead.xlsx](04_BOM/RP1_BOM_5DOF_MotionHead.xlsx) |
-| 7DOF + MotionHead | [RP1_BOM_7DOF_MotionHead.xlsx](04_BOM/RP1_BOM_7DOF_MotionHead.xlsx) |
+| 5DOF + MotionHead | [RP1.3.4 （五自由度+运控头）BOM表.xlsx](<04_BOM/RP1.3.4 （五自由度+运控头）BOM表.xlsx>) |
+| 7DOF + MotionHead | [RP1.3.4 （七自由度+运控头）BOM表.xlsx](<04_BOM/RP1.3.4 （七自由度+运控头）BOM表.xlsx>) |
 
 ## CAD Downloads
 

@@ -6,12 +6,12 @@
 
 | 配置 | BOM |
 | --- | --- |
-| `5DOF_MotionHead` | [RP1_BOM_5DOF_MotionHead.xlsx](RP1_BOM_5DOF_MotionHead.xlsx) |
-| `7DOF_MotionHead` | [RP1_BOM_7DOF_MotionHead.xlsx](RP1_BOM_7DOF_MotionHead.xlsx) |
+| `5DOF_MotionHead` | [RP1.3.4 （五自由度+运控头）BOM表.xlsx](<RP1.3.4 （五自由度+运控头）BOM表.xlsx>) |
+| `7DOF_MotionHead` | [RP1.3.4 （七自由度+运控头）BOM表.xlsx](<RP1.3.4 （七自由度+运控头）BOM表.xlsx>) |
 
 ## 工作表
 
-两份文件均使用以下工作表名称：
+两份文件均包含以下工作表，其他分类明细见文件内各工作表：
 
 | 工作表 | 内容 |
 | --- | --- |
